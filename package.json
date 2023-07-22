@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^8.5.0",
+    "canvacord": "^5.4.10",
+    "captcha-canvas": "^3.2.1",
+    "discord-gamecord": "^4.4.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.0",
+    "quick.db": "^9.1.7"
+  },
+  "name": "hamuza",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hamza",
+  "license": "ISC",
+  "description": ""
+}
